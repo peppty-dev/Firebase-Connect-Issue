@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62184311538",
+    "project_id": "fir-bug-df097",
+    "storage_bucket": "fir-bug-df097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62184311538:android:dbcebf170eccd35e4a1e6b",
+        "android_client_info": {
+          "package_name": "com.problem.firebasereconnectissue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62184311538-vhlok9rr55lq9ouprpqatk7evdd45u4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArYzi8SQYtnFGnkCYW7HbEMXTDHrukH3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62184311538-vhlok9rr55lq9ouprpqatk7evdd45u4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
