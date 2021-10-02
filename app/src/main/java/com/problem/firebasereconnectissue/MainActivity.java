@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         textView = findViewById(R.id.textView);
         progressBar = findViewById(R.id.progressBar);
-        
+
 
     }
 
